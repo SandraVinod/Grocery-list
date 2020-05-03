@@ -1,0 +1,84 @@
+{
+    "list":[
+        {
+            "SerialNumber":"1",
+            "Name":"Onion",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Department":"Food",
+            "Notes":"Big size"
+        },
+        {
+            "SerialNumber":"2",
+            "Name":"Sanitizer",
+            "Quantity":"3",
+            "Unit":"Number",
+            "Department":"Health",
+            "Notes":"lifeboy preferable"
+        },
+        {
+            "SerialNumber":"3",
+            "Name":"Carrot",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Department":"Food",
+            "Notes":"Fresh only"
+        },
+        {
+            "SerialNumber":"4",
+            "Name":"Oil",
+            "Quantity":"1",
+            "Unit":"litre",
+            "Department":"Food",
+            "Notes":"Sunflower Oil only"
+        },
+        {
+            "SerialNumber":"5",
+            "Name":"Notebook",
+            "Quantity":"10",
+            "Unit":"Number",
+            "Department":"Stationary",
+            "Notes":"200 pages unruled - classmates college notebook"
+        },
+        {
+            "SerialNumber":"6",
+            "Name":"Pen",
+            "Quantity":"10",
+            "Unit":"Number",
+            "Department":"Stationary",
+            "Notes":"Blue, Lexy"
+        },
+        {
+            "SerialNumber":"7",
+            "Name":"Chart Paper",
+            "Quantity":"2",
+            "Unit":"Number",
+            "Department":"Stationary",
+            "Notes":"Pink and White"
+        },
+        {
+            "SerialNumber":"8",
+            "Name":"Potato",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Food",
+            "Notes":"Medium size only"
+        },
+        {
+            "SerialNumber":"9",
+            "Name":"Soap",
+            "Quantity":"5",
+            "Unit":"Number",
+            "Department":"Health",
+            "Notes":"Lifeboy"
+        },
+        {
+            "SerialNumber":"10",
+            "Name":" Mask",
+            "Quantity":"10",
+            "Unit":"Number",
+            "Department":"Health",
+            "Notes":"Reusable and washable"
+        }
+    ]
+}
